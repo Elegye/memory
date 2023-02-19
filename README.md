@@ -1,0 +1,1 @@
+clang++ -std=c++11 template_class.cpp -o ./build/template_class && ./build/template_class
